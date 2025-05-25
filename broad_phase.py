@@ -1,0 +1,1 @@
+# Implementação do Sweep and Prune algorithm
